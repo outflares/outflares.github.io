@@ -1,32 +1,24 @@
-## Welcome to GitHub Pages
+# Darya Vasileuskaya
 
-You can use the [editor on GitHub](https://github.com/outflares/outflares.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Minsk, BY
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](src)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ABOUT ME
 
 ```markdown
-Syntax highlighted code block
+I am a student of Belarusiam State University of Informatics and Radioelectronics. I take Artificial Intelligence as my speciality.
+```
 
-# Header 1
-## Header 2
-### Header 3
+### INTERESTS
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+```markdown
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+//////////////////////////////////////
 
 ### Jekyll Themes
 
