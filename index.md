@@ -7,9 +7,8 @@ Minsk, BY
 ### ABOUT ME
 
 ```markdown
-I am a second year student of
-Belarusian State University
-of Informatics and Radioelectronics.
+I am a second year student of Belarusian State
+University of Informatics and Radioelectronics.
 I take Artificial Intelligence as my speciality.
 ```
 
