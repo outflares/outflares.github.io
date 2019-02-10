@@ -2,7 +2,7 @@
 
 Minsk, BY
 
-![Image](https://pp.userapi.com/c846420/v846420949/19b385/BQp7ZYRZtJg.jpg)
+###[Image](https://pp.userapi.com/c846420/v846420949/19b385/BQp7ZYRZtJg.jpg)
 
 ### ABOUT ME
 
